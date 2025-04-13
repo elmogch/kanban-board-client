@@ -35,6 +35,7 @@
     3. Maintain the current functionality: adding, deleting, and moving tasks between columns.
     4. Add the ability to customize the background color of each column.
     5. Add the ability to customize the text color of each task by column.
+    6. Add a search filter for taks
 
 ## Project Specifications
 
